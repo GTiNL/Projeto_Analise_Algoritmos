@@ -1,0 +1,12 @@
+bin/
+out/
+*.class
+*.log
+~$*.xlsx
+__pycache__/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+resultados/resultados_personalizado.csv
+resultados/resultados_personalizado_ambiente.txt
